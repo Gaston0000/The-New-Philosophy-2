@@ -15,3 +15,10 @@
 *Στόχος μας είναι η απόλυτη αρμονία Τ.Ν. και ανθρώπου.*
 # The-New-Philosophy-2
 Emotional &amp; Social Intelligence: Ethical Transparency:
+
+
+
+---
+### 🔗 Σύνδεσμοι / Links
+Για τη βασική φιλοσοφική θεωρία και τα παράδοξα, επισκεφθείτε το κεντρικό repository:
+[The-New-Philosophy](https://github.com)
